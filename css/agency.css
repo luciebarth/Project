@@ -415,8 +415,8 @@ section h3.section-subheading {
 .timeline > li .timeline-image {
   left: 0;
   margin-left: 0;
-  width: 80px;
-  height: 80px;
+  width: 90px;
+  height: 90px;
   position: absolute;
   z-index: 100;
   background-color: #fed136;
